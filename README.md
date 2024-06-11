@@ -5,11 +5,13 @@
 # Django Server
 
 - Django Rest Framework
+
 ![alt text](<ScreenShots/Screenshot 2024-06-11 130508.png>)
 
 # Postman Validation
 
 - `Coin` : `DUKO`
+
 ![alt text](<ScreenShots/Screenshot 2024-06-11 130532.png>)
 
 - `Coin` : `ETHEREUM`
