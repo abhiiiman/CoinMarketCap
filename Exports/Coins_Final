@@ -1,0 +1,6 @@
+,Coin,Price,Price_Change,Market_Cap,Market_Cap_Rank,Volume,Volume_Rank,Volume_Change,Circulating_Supply,Total_Supply,Diluted_Market_Cap,Contract_Name,Contract_Address,Website,Twitter,Telegram
+0,duko,0.004107,-10.40,39692708,690,6265633,499,15.79,9663955990,9999609598,41071336,solana,HLptm5...2G7rf9,https://dukocoin.com/,https://twitter.com/dukocoin,https://t.me/+jlScZmFrQ8g2MDg8
+1,ethereum,3543.05,-3.45,424651099160,2,15064210511,3,3.55,120155670,120155670,424651099160,bnb,Smart,https://github.com/ethereum/wiki/wiki/White-Paper,https://twitter.com/ethereum,https://reddit.com/r/ethereum
+2,tether,0.9994,-0.03,112425963705,3,65781297697,1,58.51,112496265357,115086088089,115014167994,ethereum,0xdac1...831ec7,https://tether.to,https://twitter.com/tether_to,https://t.me/OfficialTether
+3,dogecoin,0.1404,-2.68,20311246304,8,1000514821,12,4.93,144660626384,144660626384,20311246304,bnb,Smart,http://dogecoin.com/,https://twitter.com/dogecoin,https://reddit.com/r/dogecoin
+4,Toncoin,6.88,-2.26,16736490470,9,300675976,36,1.80,2431720427,5107439973,35152322399,ethereum,0x582d...47def1,https://ton.org/,https://twitter.com/ton_blockchain,https://t.me/tonblockchain

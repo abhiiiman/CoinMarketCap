@@ -1,0 +1,7 @@
+uv
+beautifulsoup
+django
+djangorestframework
+celery
+requests
+selenium
